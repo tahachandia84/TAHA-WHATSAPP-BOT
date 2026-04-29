@@ -57,7 +57,7 @@ module.exports = {
 │ 🔹 Usage: ${command.usage || command.usages?.join("\n│   ") || "Not defined"}
 │ 🔹 Permission: ${command.permission}
 │ 🔹 Category: ${command.category || "Uncategorized"}
-│ 🔹 Credits: ${command.credit || command.credits || "Mohammad Nayan"}
+│ 🔹 Credits: ${command.credit || command.credits || "Mohammad Taha"}
 ╰────────────────────╯`;
         await api.sendMessage(threadId, { text: infoText });
       } else {
@@ -67,7 +67,7 @@ module.exports = {
     }
     const pkg = global.pkg;
 
-    const timezone = global.config.timeZone || "Asia/Dhaka";
+    const timezone = global.config.timeZone || "Asia/Karachi";
 
     const now = new Date().toLocaleString("en-US", {
       timeZone: timezone,
@@ -92,7 +92,7 @@ module.exports = {
     let responseText = `
 ╭─❖  𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗠𝗘𝗡𝗨  ❖─╮
 │ 💎 𝘽𝙤𝙩: ${global.config.botName || "EMon System"}
-│ 👑 Owner: ${global.config.botOwner || "Mohammad Nayan"}
+│ 👑 Owner: ${global.config.botOwner || "Mohammad Taha"}
 │ 🌍 Global Prefix: \`${globalPrefix}\`
 │ 👥 Group Prefix: \`${prefix || "Not set (using global)"}\`
 │ 🧩 Version: ${pkg.version}
