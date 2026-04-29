@@ -23,15 +23,15 @@ module.exports = {
 
     if (!usermsg) {
       const greetings = [
-        "আহ শুনা আমার তোমার অলিতে গলিতে উম্মাহ😇😘",
-        "কি গো সোনা আমাকে ডাকছ কেনো",
-        "বার বার আমাকে ডাকস কেন😡",
-        "আহ শোনা আমার আমাকে এতো ডাক্তাছো কেনো আসো বুকে আশো🥱",
-        "হুম জান তোমার অইখানে উম্মমাহ😷😘",
-        "আসসালামু আলাইকুম বলেন আপনার জন্য কি করতে পারি",
-        "আমাকে এতো না ডেকে বস নয়নকে একটা গফ দে 🙄",
-        "jang hanga korba",
-        "jang bal falaba🙂",
+        "G MILI JAN HUKME.KRHA",
+        "G BOLA KYA KHENA HA MERI JAN",
+        "AIK CHUMI TO DA DO JANI",
+        "HA G THARIKI INSAN 🥱",
+        "ARM SA BOLO KOI SON LA GYA ",
+        "ME BUSY HO AP JAO APNI JANO SA BAT KRO",
+        "AP KYTNA KALA HO🙄",
+        "AIK.HANG MAL SAGTA HA KYA JAN",
+        "MUJHA BOT NHI JANU BOLA KRHA",
       ];
 
       const randomGreeting = greetings[Math.floor(Math.random() * greetings.length)];
