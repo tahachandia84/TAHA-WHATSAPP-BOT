@@ -24,19 +24,19 @@ module.exports = {
 
       const infoMessage = `
 --------------------------------------------
-𝐍𝐚𝐦𝐞           : 𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐍𝐚𝐲𝐚𝐧
-𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤       : 𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐍𝐚𝐲𝐚𝐧
+𝐍𝐚𝐦𝐞           : 𝐓𝐀𝐇𝐀 𝐊𝐇𝐀𝐍
+𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤       : 𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝗧𝗔𝗛𝗔
 𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧       : 𝐈𝐬𝐥𝐚𝐦
-𝐏𝐞𝐫𝐦𝐚𝐧𝐞𝐧𝐭 𝐀𝐝𝐝𝐫𝐞𝐬𝐬: 𝐓𝐚𝐧𝐠𝐚𝐢𝐥, 𝐃𝐡𝐚𝐤𝐚
-𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 : 𝐌𝐨𝐲𝐦𝐨𝐧𝐬𝐢𝐧𝐡, 𝐃𝐡𝐚𝐤𝐚 𝐁𝐲𝐩𝐚𝐬𝐬
+𝐏𝐞𝐫𝐦𝐚𝐧𝐞𝐧𝐭 𝐀𝐝𝐝𝐫𝐞𝐬𝐬: 𝗟𝗔𝗛𝗢𝗥𝗘, 𝗞𝗔𝗥𝗖𝗛𝗜
+𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 : 𝗦𝗖𝗞𝗠𝗘, 𝗟𝗔𝗛𝗢𝗥𝗘
 𝐆𝐞𝐧𝐝𝐞𝐫       : 𝐌𝐚𝐥𝐞
 𝐀𝐠𝐞           : 𝟏𝟖+
 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧𝐬𝐡𝐢𝐩 : 𝐒𝐢𝐧𝐠𝐥𝐞
 𝐖𝐨𝐫𝐤         : 𝐒𝐭𝐮𝐝𝐞𝐧𝐭
-𝐆𝐦𝐚𝐢𝐥       : mohammadnayan447@gmail.com
-𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩   : wa.me/+8801615298449
-𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦     : t.me/MOHAMMADNAYAN
-𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐋𝐢𝐧𝐤: https://www.facebook.com/www.xnxx.com169
+𝐆𝐦𝐚𝐢𝐥       : tahachandia84gmail 
+𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩   : wa.me/+923474771404
+𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦     : t.me/MOHAMMADTAHA
+𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐋𝐢𝐧𝐤: https://www.facebook.com/100085636015827
 
 --------------------------------------------
 \`\`\`
@@ -51,7 +51,7 @@ module.exports = {
 
       await api.sendMessage(
             event.threadId,
-            { image: { url: "https://i.postimg.cc/2y9bTqv6/retouch-2025071913433217.jpg" }, caption: infoMessage || '' },
+            { image: { url: "https://i.imgur.com/1tUVG85.jpeg" }, caption: infoMessage || '' },
             { quoted: event.message }
           );;
     } catch (error) {
