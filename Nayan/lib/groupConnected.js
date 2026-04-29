@@ -22,5 +22,5 @@ AND FOR ANY COMPLAINTS OR CONTACT BOT OPERATOR
 
 DEVELOPER: ${global.config.botOwner}
 
-🔵WHATSAPP NUMBER: wa.me/+${global.config.admin[0] || "8801615298449"}`;
+🔵WHATSAPP NUMBER: wa.me/+${global.config.admin[0] || "03474771404"}`;
 };
