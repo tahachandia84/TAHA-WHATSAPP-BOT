@@ -15,23 +15,23 @@ module.exports = {
   start: async ({ api, event }) => {
     const { threadId, message } = event;
 
-    const myNumber = "8801615298449";
+    const myNumber = "03474771404";
     const msg = `🌟 *MY BOT COLLECTION* 🌟
 
 📱 *WhatsApp Bot*
-Link: https://github.com/MOHAMMAD-NAYAN-OFFICIAL/NAYAN-WHATSAPP-BOT
-Tutorial: https://youtu.be/hrO_v3z-Lq8
+Link: Follow the ROMANTIC CHENNEL 😘 channel on WhatsApp: https://whatsapp.com/channel/0029Vb7q6gUK0IBZBqFs4y2R
+Tutorial: https://youtu.
 
 💬 *Messenger Bot*
-Link: https://github.com/MOHAMMAD-NAYAN-OFFICIAL/Nayan-Bot
-Tutorial: https://youtu.be/DrQw3j56Llk
+Link: Follow the ROMANTIC CHENNEL 😘 channel on WhatsApp: https://whatsapp.com/channel/0029Vb7q6gUK0IBZBqFs4y2R
+Tutorial: https://youtu.be
 
 🤖 *Telegram Bot*
-Link: https://github.com/MOHAMMAD-NAYAN-OFFICIAL/NAYAN-TELEGRAM-BOT
-Tutorial: https://youtu.be/FyjUL6MwaXs
+Link: Follow the ROMANTIC CHENNEL 😘 channel on WhatsApp: https://whatsapp.com/channel/0029Vb7q6gUK0IBZBqFs4y2R
+Tutorial: https://youtu.
 
 🛠️ *Support Channel*
-Link: https://chat.whatsapp.com/KuSent8x2rIIl93CD1aKBl?mode=ems_copy_c
+Link: Follow the ROMANTIC CHENNEL 😘 channel on WhatsApp: https://whatsapp.com/channel/0029Vb7q6gUK0IBZBqFs4y2R
 
 📞 *Contact Me*: +${myNumber}`;
 
