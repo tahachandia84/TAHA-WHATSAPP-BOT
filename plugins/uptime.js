@@ -47,7 +47,7 @@ module.exports = {
 ⏱ *Total:* *${uptime}*
 
 ━━━━━━━━━━━━━━━━━━━━━━
-🤖 *Bot Name:* ${global.config.botName || "Nayan Bot"}
+🤖 *Bot Name:* ${global.config.botName || "TAHA  Bot"}
 🖥 *Engine:* ${cpuModel.split("CPU")[0].trim()}
 ⚙️ *CPU Load:* ${cpuLoad}
 📌 *Status:* Running Smoothly  
